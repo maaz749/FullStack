@@ -1,0 +1,11 @@
+a{
+    border: 2px solid black;
+    height: 40px;
+    margin: 20px;
+    background-color: red;
+    /* outside the box, element, etc */
+    padding:20px;
+    /* inside the box, element */
+    width: 40px;
+    COLOR:wHITE;
+}

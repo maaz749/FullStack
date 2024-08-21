@@ -1,0 +1,2 @@
+background, color, height, width,
+border
